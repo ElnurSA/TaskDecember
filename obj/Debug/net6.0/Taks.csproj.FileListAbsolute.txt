@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/Taks/bin/Debug/net6.0/Taks
+/Users/safiyevelnur/Desktop/Taks/bin/Debug/net6.0/Taks.deps.json
+/Users/safiyevelnur/Desktop/Taks/bin/Debug/net6.0/Taks.runtimeconfig.json
+/Users/safiyevelnur/Desktop/Taks/bin/Debug/net6.0/Taks.dll
+/Users/safiyevelnur/Desktop/Taks/bin/Debug/net6.0/Taks.pdb
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.dll
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/refint/Taks.dll
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.pdb
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/Taks.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/Taks/obj/Debug/net6.0/ref/Taks.dll
